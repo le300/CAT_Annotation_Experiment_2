@@ -7,11 +7,16 @@ This repository contains the data, code for the statistical analyses, and other 
 
 * [Examples_Background_Information_Amount.pdf](Examples_Background_Information_Amount.pdf) - This pdf provides a simple annotation scheme with instructions on how to approach annotating a comics page, as well as examples annotated panels. This pdf is downloadable from the CAT so that an annotator can refer to it at any time.
 
-* [Participant_Information_Sheet.pdf](Participant_Information_Sheet.pdf) - This pdf is an information sheet about the study described in the associated paper. This information sheet shows that the study was approved by Queen Mary University of Londobn, and was given to every annotator before their participation in the study.
+* [Participant_Information_Sheet.pdf](Participant_Information_Sheet.pdf) - This pdf is an information sheet about the study described in the associated paper. This information sheet shows that the study was approved by Queen Mary University of London, and was given to every annotator before their participation in the study.
 
 * [Annotations_Prolific](Annotations_Prolific) - This folder contains all the collected annotations for each study.
   
-  * [Background_Detail_Binary_Story1](Background_Detail_Binary_Story1) - This folder holds all the annotations collected when testing agreement for Story 1 using a binary scale. The [Processed_Data](Processed_Data) subfolder contains each individual participant's annotations in JSON files. 
+  * [Background_Detail_Binary_Story1](Background_Detail_Binary_Story1) - Holds all the annotations collected when testing agreement for Story 1 using a binary scale. The [Processed_Data](Processed_Data) subfolder contains each individual participant's annotations in JSON files. 
+  * [Background_Detail_Binary_Story2](Background_Detail_Binary_Story2) - Holds all the annotations collected when testing agreement for Story 2 using a binary scale. The [Processed_Data](Processed_Data) subfolder contains each individual participant's annotations in JSON files.
+  * [Background_Detail_LikertScale_Story1](Background_Detail_LikertScale_Story1) - Holds all the annotations collected when testing agreement for Story 1 using an ordinal scale. The [Processed_Data](Processed_Data) subfolder contains each individual participant's annotations in JSON files.
+  * [Background_Detail_LikertScale_Story2](Background_Detail_LikertScale_Story2) - Holds all the annotations collected when testing agreement for Story 2 using an ordinal scale. The [Processed_Data](Processed_Data) subfolder contains each individual participant's annotations in JSON files.
+  * [Background_Detail_RealValue_Story1](Background_Detail_RealValue_Story1) - Holds all the annotations collected when testing agreement for Story 1 using a continuous scale. The [Processed_Data](Processed_Data) subfolder contains each individual participant's annotations in JSON files.
+  * [Background_Detail_RealValue_Story2](Background_Detail_RealValue_Story2) - Holds all the annotations collected when testing agreement for Story 2 using a continuous scale. The [Processed_Data](Processed_Data) subfolder contains each individual participant's annotations in JSON files.
 
 * [ComicPages](ComicPages) - This folder contains pdfs of all the comic pages that were annotated in the annotation experiments described in the paper. 
 
