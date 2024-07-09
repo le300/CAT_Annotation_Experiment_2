@@ -25,6 +25,8 @@ This repository contains the data, code for the statistical analyses, and other 
   * [Story3](ComicPages/Story3) - This folder contains all five pages of "My Robot Plants" as pdfs. [Story3_Info.md](ComicPages/Story3/Story3_Info.md) provides the authorship and publication information.
   * [Story4](ComicPages/Story4) - This folder contains all five pages of "The Man Who Never Lived" as pdfs. [Story4_Info.md](ComicPages/Story4/Story4_Info.md) provides the authorship and publication information.
 
+* VLFI_Questionnaire.pdf - This pdf provides the questions of the Visual Language Fluency Index (VLFI). These questions were given to each annotator to fill out within the CAT.  
+
 
 
 
