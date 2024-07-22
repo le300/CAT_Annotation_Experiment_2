@@ -19,6 +19,15 @@ This repository contains the data, code for the statistical analyses, and other 
   * [Background_Detail_LikertScale_Story2](Background_Detail_LikertScale_Story2) - Holds all the annotations collected when testing agreement for Story 2 using an ordinal scale. The [Processed_Data](Processed_Data) subfolder contains each individual participant's annotations in JSON files.
   * [Background_Detail_RealValue_Story1](Background_Detail_RealValue_Story1) - Holds all the annotations collected when testing agreement for Story 1 using a continuous scale. The [Processed_Data](Processed_Data) subfolder contains each individual participant's annotations in JSON files.
   * [Background_Detail_RealValue_Story2](Background_Detail_RealValue_Story2) - Holds all the annotations collected when testing agreement for Story 2 using a continuous scale. The [Processed_Data](Processed_Data) subfolder contains each individual participant's annotations in JSON files.
+ 
+* [Inter-Annotator_agreement_analysis_code](Inter-Annotator_agreement_analysis_code) - This folder contains the code to calculate annotator agreement for each study, and all results including heatmaps visualizing annotator agreement and reliability. The analyses are done using python within jupyter notebook files. Annotation data can be read in from the JSON files in the [Annotations_Prolific](Annotations_Prolific) folder. 
+
+  * [Background_Detail_Binary_Story1.ipynb](Background_Detail_Binary_Story1.ipynb) - Contains agreement results for Story 1 using a binary measure.
+  * [Background_Detail_Binary_Story2.ipynb](Background_Detail_Binary_Story2.ipynb) - Contains agreement results for Story 2 using a binary measure.
+  * [Background_Detail_LikertScale_Story1_checked.ipynb](Background_Detail_LikertScale_Story1_checked.ipynb) - Contains agreement results for Story 1 using an ordinal scale.
+  * [Background_Detail_LikertScale_Story2_checked.ipynb](Background_Detail_LikertScale_Story2_checked.ipynb) - Contains agreement results for Story 2 using an ordinal scale.
+  * [Background_Detail_RealValued_Story1_checked.ipynb](Background_Detail_RealValued_Story1_checked.ipynb) - Contains agreement results for Story 1 using a continuous scale.
+  * [Background_Detail_RealValued_Story2_checked.ipynb](Background_Detail_RealValued_Story2_checked.ipynb) - Contains agreement results for Story 2 using a continuous scale.    
 
 * [ComicPages](ComicPages) - This folder contains pdfs of all the comic pages that were annotated in the annotation experiments described in the paper. 
 
