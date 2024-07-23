@@ -27,7 +27,8 @@ This repository contains the data, code for the statistical analyses, and other 
   * [Background_Detail_LikertScale_Story1_checked.ipynb](Background_Detail_LikertScale_Story1_checked.ipynb) - Contains agreement results for Story 1 using an ordinal scale.
   * [Background_Detail_LikertScale_Story2_checked.ipynb](Background_Detail_LikertScale_Story2_checked.ipynb) - Contains agreement results for Story 2 using an ordinal scale.
   * [Background_Detail_RealValued_Story1_checked.ipynb](Background_Detail_RealValued_Story1_checked.ipynb) - Contains agreement results for Story 1 using a continuous scale.
-  * [Background_Detail_RealValued_Story2_checked.ipynb](Background_Detail_RealValued_Story2_checked.ipynb) - Contains agreement results for Story 2 using a continuous scale.    
+  * [Background_Detail_RealValued_Story2_checked.ipynb](Background_Detail_RealValued_Story2_checked.ipynb) - Contains agreement results for Story 2 using a continuous scale.
+  * [Background_Location_Information_Amount_Comparisons_checked.ipynb](Background_Location_Information_Amount_Comparisons_checked.ipynb) - Contains analyses between the distributions of agreement scores between annotator pairs, inlcuding significance tests and visualizations of mean agreement scores per-panel. 
 
 * [ComicPages](ComicPages) - This folder contains pdfs of all the comic pages that were annotated in the annotation experiments described in the paper. 
 
