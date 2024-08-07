@@ -39,6 +39,7 @@ This repository contains the data, code for the statistical analyses, and other 
 
 * [VLFI_Questionnaire.pdf](VLFI_Questionnaire.pdf) - This pdf provides the questions of the Visual Language Fluency Index (VLFI). These questions were given to each annotator to fill out within the Comics Annotation Tool (CAT).  
 
+* [Annotator_competence_and_reliability.pdf](Annotator_competence_and_reliability.pdf) - This pdf goes into detail about agreement between annotator pairs and assesses the reliability of individual annotators. Heatmaps per study condition and all the Visual Language Fluency Index (VLFI) scores are provided. 
 
 
 
