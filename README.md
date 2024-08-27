@@ -13,7 +13,7 @@ This repository contains the data, code for the statistical analyses, and other 
 
 * [Annotations_Prolific](Annotations_Prolific) - This folder contains all the collected annotations for each study.
   
-  * [Background_Detail_Binary_Story1](Background_Detail_Binary_Story1) - Holds all the annotations collected when testing agreement for Story 1 using a binary scale. The [Processed_Data](Processed_Data) subfolder contains each individual participant's annotations in JSON files. 
+  * [Background_Detail_Binary_Story1](Annotations_Prolific/Background_Detail_Binary_Story1) - Holds all the annotations collected when testing agreement for Story 1 using a binary scale. The [Processed_Data](Annotations_Prolific/Background_Detail_Binary_Story1/Processed_Data) subfolder contains each individual participant's annotations in JSON files. 
   * [Background_Detail_Binary_Story2](Background_Detail_Binary_Story2) - Holds all the annotations collected when testing agreement for Story 2 using a binary scale. The [Processed_Data](Processed_Data) subfolder contains each individual participant's annotations in JSON files.
   * [Background_Detail_LikertScale_Story1](Background_Detail_LikertScale_Story1) - Holds all the annotations collected when testing agreement for Story 1 using an ordinal scale. The [Processed_Data](Processed_Data) subfolder contains each individual participant's annotations in JSON files.
   * [Background_Detail_LikertScale_Story2](Background_Detail_LikertScale_Story2) - Holds all the annotations collected when testing agreement for Story 2 using an ordinal scale. The [Processed_Data](Processed_Data) subfolder contains each individual participant's annotations in JSON files.
